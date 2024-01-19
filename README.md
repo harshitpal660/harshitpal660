@@ -20,10 +20,9 @@ Hi, I'm a Frontend Web developer who is passionate about creating efficient, use
 
 
 
-
 # 💡 Live Projects
 
-- [**Whatsapp Clone**](https://master.d3lu9o5u1vw1c8.amplifyapp.com/): Allowing users to chat using avatars of different celebrities. Leveraging the OpenAI API, each avatar is intelligently
+- [**Whatsapp Clone**](https://master.d7ygxwaekoo76.amplifyapp.com/): Allowing users to chat using avatars of different celebrities. Leveraging the OpenAI API, each avatar is intelligently
 assigned a specific role.
 - [**Info Crawler**](https://drive.google.com/file/d/1tFKHiNrWgEo9LzHP3YicJvQB02aX0gtc/view?pli=1):The Web Scraper Chrome Extension enables users to easily extract valuable content (using Puppeteer), from webpages,
 including summaries, major points, and images.
